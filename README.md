@@ -4,8 +4,8 @@ Used machine learning to predict AQI levels and interpret feature impacts using 
 
 ## 📈 Objective
 - Train a regression model to predict AQI
-- Use SHAP and LIME for model explainability
-- Highlight key factors affecting air quality
+- Use LIME for model explainability
+- Highlight key factors affecting air quality in different months of the year
 
 ## 🧰 Tools & Techniques
 - Python (XGBoost, Pandas, Scikit-learn)
