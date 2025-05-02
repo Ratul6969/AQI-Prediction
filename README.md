@@ -9,10 +9,9 @@ Used machine learning to predict AQI levels and interpret feature impacts using 
 
 ## 🧰 Tools & Techniques
 - Python (XGBoost, Pandas, Scikit-learn)
-- LIME, SHAP for explainability
+- LIME for explainability
 - Matplotlib, Seaborn for visualization
 
 ## 🔍 Results
 - Achieved high accuracy with XGBoost
-- PM2.5 and CO were most important features
 - LIME explained predictions in local instances
